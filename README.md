@@ -2,7 +2,7 @@ Ceci est le repository git du rendu d'examen de premier trismtre en Mastère ses
 
 Ce git contient :
 
--README qui contient ce que vous êtes en train de lire
+-README qui contient un résumé du contenu du git
 
 -Le questionnaire d'évalutaion mise en place et remplie par 10 peronnses externes à Ludus sur le serious game Hellink
 (Questionaire_Hellink)
